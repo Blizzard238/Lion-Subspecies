@@ -6,10 +6,6 @@ This project is a comprehensive web resource detailing various lion subspecies a
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [File Structure](#file-structure)
-- [Lion Subspecies Pages](#lion-subspecies-pages)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
